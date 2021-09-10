@@ -1,4 +1,4 @@
-# Crosh: minimal CRoss-platform SHell
+# Crosh: minimal CRoss-platform SHell (WIP, code is not real yet)
 
 Crosh is a minimal Bash-like language for cross-platform scripting on
 Windows, macOS, and Linux. The goal is to cover up some of the major
